@@ -1,0 +1,1 @@
+clang -std=c89 -pedantic -Wall -Wextra -Wconversion -O3 %1.c -o %1.exe
